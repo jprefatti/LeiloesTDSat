@@ -8,3 +8,8 @@ Este projeto é um sistema informatizado desenvolvido para facilitar as rotinas 
 - Java
 - MySQL
 - Git e GitHub
+
+## Funcionalidades
+- Cadastro de itens.
+- Listagem de itens cadastrados.
+- Mensagens de sucesso ou erro no cadastro.
